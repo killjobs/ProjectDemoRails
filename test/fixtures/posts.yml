@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  neighborhood: MyString
+  address: MyString
+  typeAlert: MyString
+  user: one
+
+two:
+  neighborhood: MyString
+  address: MyString
+  typeAlert: MyString
+  user: two
